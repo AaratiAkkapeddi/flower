@@ -77,7 +77,7 @@ class Home extends Component {
       <div className='shine1'></div>
        <div>{this.renderFlowers()}</div>
          <nav className='medium-text-link hidden'>
-          <Link className='medium-text-link' to="/share">share your flower dedication</Link>
+
           </nav>
       </div>
 
